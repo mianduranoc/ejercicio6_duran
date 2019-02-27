@@ -1,0 +1,10 @@
+1,15400981,Sergio Alfaro,70
+2,15400982,Delia Macias,80
+3,15400983,Ricardo Jimenez,90
+4,15400984,Brian Larreta,100
+5,15400985,Gabriela De La Rosa,100
+6,15400986,Manuel Del Hoyo,100
+7,15400987,Miguel Duran,85
+8,15400988,Edgar Pozas,98
+9,15400989,Aldair Arriola,99
+10,15400990,Eric Garcia,100
